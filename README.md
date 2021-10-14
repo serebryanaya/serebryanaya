@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/pveeta?darkmode=true&privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/pveeta?)](https://github.com/JaeSeoKim/badge42)
 
 🔭 I’m currently working on Philosofers (42 Cursus)
