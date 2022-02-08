@@ -1,6 +1,10 @@
-I’m a student at School 21 / École 42
-Nickname @pveeta
+# Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serebryanaya&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+# Education
+**School 21 / École 42** - since Jan 2021
+
+Nickname @pveeta
 
 <!--
 **serebryanaya/serebryanaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,22 +20,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 Currently working on Minishell (42 Cursus)
+
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/pveeta?darkmode=true)](https://github.com/JaeSeoKim/badge42)
 
-Validated project:
+# Projects
 
-== Libft    [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/pveeta/Libft)](https://github.com/JaeSeoKim/badge42)
+### ⚡ Validated
 
-== Born2beroot   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/pveeta/Born2beroot)](https://github.com/JaeSeoKim/badge42)
 
-== Philosophers   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/pveeta/Philosophers)](https://github.com/JaeSeoKim/badge42)
 
-== push_swap    [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/pveeta/push_swap)](https://github.com/JaeSeoKim/badge42)
+Project |Summary | Score     
+---     |  -- | -------
+[Philosophers](https://github.com/serebryanaya/Philosofers) |The project is about threads and forks, mutex and semaphores |[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/pveeta/Philosophers)](https://github.com/JaeSeoKim/badge42)
+[So_long](https://github.com/serebryanaya/so_long) | The simple arcade game on C  | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/pveeta/so_long)](https://github.com/JaeSeoKim/badge42)
+[Ft_printf](https://github.com/serebryanaya/Printf_School21)  | Recoding the libc’s `printf` function |[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/pveeta/ft_printf)](https://github.com/JaeSeoKim/badge42)
+[Push_swap](https://github.com/serebryanaya/Push_swap) | Sorting data on a stack, with a limited set of instructions, using the lowest  number of actions |[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/pveeta/push_swap)](https://github.com/JaeSeoKim/badge42)
+[Libft](https://github.com/serebryanaya/Libft_School21) | A library of useful functions that will be allowed to be reused in future projects  |[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/pveeta/Libft)](https://github.com/JaeSeoKim/badge42)
+[Get_next_line](https://github.com/serebryanaya/Libft_School21) | Creating a function that allows to read a line ending with a (`'\n'`) from a file descriptor  |[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/pveeta/get_next_line)](https://github.com/JaeSeoKim/badge42)
 
-== so_long    [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/pveeta/so_long)](https://github.com/JaeSeoKim/badge42)
 
-== ft_printf    [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/pveeta/ft_printf)](https://github.com/JaeSeoKim/badge42)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serebryanaya&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+### 🔭 Current
+Project         |        | Summary |        
+---           | ---    | --- 
+Minishell    |        | The project about how to communicate with a computer using interactive lines of commands like a bash
