@@ -37,7 +37,7 @@ Project |Summary | Score
 [Ft_printf](https://github.com/serebryanaya/Printf_School21)  | Recoding the libc’s `printf` function |[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/pveeta/ft_printf)](https://github.com/JaeSeoKim/badge42)
 [Push_swap](https://github.com/serebryanaya/Push_swap) | Sorting data on a stack, with a limited set of instructions, using the lowest  number of actions |[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/pveeta/push_swap)](https://github.com/JaeSeoKim/badge42)
 [Libft](https://github.com/serebryanaya/Libft_School21) | A library of useful functions that will be allowed to be reused in future projects  |[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/pveeta/Libft)](https://github.com/JaeSeoKim/badge42)
-[Get_next_line](https://github.com/serebryanaya/Libft_School21) | Creating a function that allows to read a line ending with a (`'\n'`) from a file descriptor  |[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/pveeta/get_next_line)](https://github.com/JaeSeoKim/badge42)
+[Get_next_line](https://github.com/serebryanaya/Get_next_line-42) | Creating a function that allows to read a line ending with a (`'\n'`) from a file descriptor  |[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/pveeta/get_next_line)](https://github.com/JaeSeoKim/badge42)
 
 
 ### 🔭 Current
