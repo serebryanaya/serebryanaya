@@ -1,5 +1,15 @@
 # Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serebryanaya&show_icons=true&theme=dark)](https://github.com/serebryanaya/github-readme-stats)
+<p align="left"> 
+
+<div align="left">
+    
+  <div align="left">
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serebryanaya&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+
+  </div>
+</div>
+
 
 # Education
 **School 21 / École 42** - since Jan 2021
