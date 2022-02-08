@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on Philosofers (42 Cursus)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
