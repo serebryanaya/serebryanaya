@@ -1,5 +1,5 @@
 # Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serebryanaya&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serebryanaya&show_icons=true&theme=dark)](https://github.com/serebryanaya/github-readme-stats)
 
 # Education
 **School 21 / École 42** - since Jan 2021
