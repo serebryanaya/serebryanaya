@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/pveeta?)](https://github.com/JaeSeoKim/badge42)
 
 🔭 I’m currently working on Philosofers (42 Cursus)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
