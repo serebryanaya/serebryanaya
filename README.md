@@ -16,10 +16,3 @@ Here are some ideas to get you started:
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/pveeta?)](https://github.com/JaeSeoKim/badge42)
 
 🔭 I’m currently working on Philosofers (42 Cursus)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
