@@ -44,15 +44,16 @@ Here are some ideas to get you started:
 
 Project |Summary | Score     
 ---     |  -- | -------
-[Philosophers](https://github.com/serebryanaya/Philosofers) |The project is about threads and forks, mutex and semaphores |[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/pveeta/Philosophers)](https://github.com/JaeSeoKim/badge42)
-[So_long](https://github.com/serebryanaya/so_long) | The simple arcade game on C  | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/pveeta/so_long)](https://github.com/JaeSeoKim/badge42)
-[Ft_printf](https://github.com/serebryanaya/Printf_School21)  | Recoding the libc’s `printf` function |[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/pveeta/ft_printf)](https://github.com/JaeSeoKim/badge42)
-[Push_swap](https://github.com/serebryanaya/Push_swap) | Sorting data on a stack, with a limited set of instructions, using the lowest  number of actions |[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/pveeta/push_swap)](https://github.com/JaeSeoKim/badge42)
-[Libft](https://github.com/serebryanaya/Libft_School21) | A library of useful functions that will be allowed to be reused in future projects  |[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/pveeta/Libft)](https://github.com/JaeSeoKim/badge42)
-[Get_next_line](https://github.com/serebryanaya/Get_next_line-42) | Creating a function that allows to read a line ending with a (`'\n'`) from a file descriptor  |[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/pveeta/get_next_line)](https://github.com/JaeSeoKim/badge42)
+[Minishell](https://github.com/serebryanaya/minishell_main) |This project is about creating a simple shell. The goal is to learn a lot about processes and file descriptors [![pveeta's 42 minishell Score](https://badge42.vercel.app/api/v2/cl8x9ex0a00160gjzmj5wifcw/project/2366758)](https://github.com/JaeSeoKim/badge42)
+[Philosophers](https://github.com/serebryanaya/Philosofers) |The project is about threads and forks, mutex and semaphores [![pveeta's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl8x9ex0a00160gjzmj5wifcw/project/2366757)](https://github.com/JaeSeoKim/badge42)
+[So_long](https://github.com/serebryanaya/so_long) | The simple arcade game on C  | [![pveeta's 42 so_long Score](https://badge42.vercel.app/api/v2/cl8x9ex0a00160gjzmj5wifcw/project/2313903)](https://github.com/JaeSeoKim/badge42)
+[Ft_printf](https://github.com/serebryanaya/Printf_School21)  | Recoding the libc’s `printf` function [![pveeta's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl8x9ex0a00160gjzmj5wifcw/project/2185078)](https://github.com/JaeSeoKim/badge42)
+[Push_swap](https://github.com/serebryanaya/Push_swap) | Sorting data on a stack, with a limited set of instructions, using the lowest  number of actions [![pveeta's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl8x9ex0a00160gjzmj5wifcw/project/2257157)](https://github.com/JaeSeoKim/badge42)
+[Libft](https://github.com/serebryanaya/Libft_School21) | A library of useful functions that will be allowed to be reused in future projects  [![pveeta's 42 Libft Score](https://badge42.vercel.app/api/v2/cl8x9ex0a00160gjzmj5wifcw/project/2157258)](https://github.com/JaeSeoKim/badge42)
+[Get_next_line](https://github.com/serebryanaya/Get_next_line-42) | Creating a function that allows to read a line ending with a (`'\n'`) from a file descriptor  [![pveeta's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl8x9ex0a00160gjzmj5wifcw/project/2168736)](https://github.com/JaeSeoKim/badge42)
 
 
 ### 🔭 Current
 Project         |        | Summary |        
 ---           | ---    | --- 
-Minishell    |        | The project about how to communicate with a computer using interactive lines of commands like a bash
+Webserv    |        | To make HTTP server on C++
