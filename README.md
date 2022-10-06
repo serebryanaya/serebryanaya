@@ -54,6 +54,6 @@ Project |Summary | Score
 
 
 ### 🔭 Current
-Project         |        | Summary |        
----           | ---    | --- 
-[Webserv](https://github.com/D-lana/ft_webserv)    |        | To make HTTP server on C++
+Project         | Summary |        
+---            | --- |
+[Webserv](https://github.com/D-lana/ft_webserv)   | To make HTTP server on C++  |
