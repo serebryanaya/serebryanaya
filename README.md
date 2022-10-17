@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 Project |Summary | Score     
 ---     |  -- | -------
-[Webserv](https://github.com/D-lana/ft_webserv) |To make HTTP server on C++ | [![pveeta's 42 webserv Score](https://badge42.vercel.app/api/v2/cl8x9ex0a00160gjzmj5wifcw/project/2702189)](https://github.com/JaeSeoKim/badge42))
+[Webserv](https://github.com/D-lana/ft_webserv) |To make HTTP server on C++ | [![pveeta's 42 webserv Score](https://badge42.vercel.app/api/v2/cl8x9ex0a00160gjzmj5wifcw/project/2702189)](https://github.com/JaeSeoKim/badge42)
 [Minishell](https://github.com/serebryanaya/minishell_main) |This project is about creating a simple shell. The goal is to learn a lot about processes and file descriptors | [![pveeta's 42 minishell Score](https://badge42.vercel.app/api/v2/cl8x9ex0a00160gjzmj5wifcw/project/2366758)](https://github.com/JaeSeoKim/badge42)
 [Philosophers](https://github.com/serebryanaya/Philosofers) |The project is about threads and forks, mutex and semaphores | [![pveeta's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl8x9ex0a00160gjzmj5wifcw/project/2366757)](https://github.com/JaeSeoKim/badge42)
 [So_long](https://github.com/serebryanaya/so_long) | The simple arcade game on C  | [![pveeta's 42 so_long Score](https://badge42.vercel.app/api/v2/cl8x9ex0a00160gjzmj5wifcw/project/2313903)](https://github.com/JaeSeoKim/badge42)
